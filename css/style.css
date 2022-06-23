@@ -1,0 +1,432 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=League+Gothic&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+
+    width: 100%;
+
+    height: 1000px;
+
+    background:url(../IMG/njnpic.jpg);
+
+}
+h{
+    font-family: 'Amatic SC', cursive;
+}
+
+.head{
+
+    width: 100%;
+
+    height: 100px;
+
+    background-color:rgb(0, 0, 0);
+
+}
+
+.picture img {
+
+    width: 114px;
+
+    height: 100px;
+
+    float: left;
+
+}
+
+.picture img{
+
+    width: 81px;
+
+    height: 100px;
+    margin-left: 2%;
+
+}
+
+.link{
+    margin-right: 3%;
+    margin-top: 3%;
+
+    color: rgb(248, 247, 247);
+
+    text-decoration: none;
+
+    float: right;
+
+
+
+}
+
+.link a{
+    color: #a1a1a1;
+
+    text-decoration: none;
+
+    margin: 5px;
+
+    border: 1px solid rgb(133, 122, 122);
+
+    padding: 5px;
+
+}
+
+.link a:hover{
+
+    background-color: rgb(231, 238, 17);
+
+}
+
+.content{
+    font-family: 'Smooch', cursive;
+
+    margin-left: 40px;
+
+}
+
+.content h2{
+    font-family: 'Amatic SC', cursive;
+
+    font-size: 30px;
+
+}
+
+.content h3{
+
+    font-family: 'Smooch', cursive;
+    font-size: 18px;
+
+}
+
+.content li{
+    font-family: 'Smooch', cursive;
+
+    color: darkgray;
+
+}
+.box{
+    width: 23%;
+    height: 300px;
+    border: 1px solid green;
+    background-color:gray;
+    margin-left: 1000px;
+}
+.table{
+
+    width:100%;
+
+    height:300px;
+
+    margin-top: 30px;
+
+}
+
+.box1 {
+
+    border: 3px solid #cf9906;
+
+    width: 22%;
+
+    height: 300px;
+
+    padding-top: 9px;
+
+    margin-left: 20px;
+
+    float: left;
+
+    background-color: #cf9906;
+
+}
+
+
+
+.box1 h3{
+
+    text-align: center;
+
+    padding: 10px;
+
+}
+
+.box1 p{
+
+    font-size: 15px;
+
+}
+
+.box2 {
+
+    border: 3px solid #cccccc;
+
+    width: 22%;
+
+    height: 300px;
+
+    padding-top: 9px;
+
+    margin-left: 20px;
+
+    float: left;
+
+    background-color: #adaca8;
+
+}
+
+.box2 h3{
+
+    text-align: center;
+
+    padding: 10px;
+
+}
+
+.box2 p{
+
+    font-size: 15px;
+
+}
+
+.box3 {
+
+    border: 3px solid #b6b4ae;
+
+    width: 22%;
+
+    height: 300px;
+
+    padding-top: 9px;
+
+    margin-left: 20px;
+
+    float: left;
+
+    background-color: #aca9a3;
+}
+.box3 h3{
+
+    text-align: center;
+
+    padding: 10px;
+}
+.box3 p{
+
+    font-size: 15px;
+}
+
+.box4 {
+
+    border: 3px solid #bbb9b3;
+
+    width: 22%;
+
+    height: 300px;
+
+    padding-top: 9px;
+
+    margin-left: 20px;
+
+    float: left;
+
+    background-color: #bebdb8;
+
+}
+
+.box4 h3{
+
+    text-align: center;
+
+    padding: 10px;
+
+}
+
+.box4 p{
+
+    font-size: 15px;
+
+}
+
+.footer{
+
+    width: 100%;
+
+    height: 50px;
+
+    background-color:black;
+
+    margin-top: 213px;
+
+}
+
+.footer h3{
+
+    color: aqua;
+
+    text-align: center;
+
+}
+
+.table{
+
+    width:100%;
+
+    height:300px;
+
+    margin-top: 30px;
+
+}
+
+.box1 {
+
+    border: 3px solid #d8d4c9;
+
+    width: 22%;
+
+    height: 300px;
+
+    padding-top: 9px;
+
+    margin-left: 20px;
+
+    float: left;
+
+    background-color: #adadad;
+
+}
+
+
+
+.box1 h3{
+
+    text-align: center;
+
+    padding: 10px;
+
+}
+
+.box1 p{
+    font-family: 'Smooch', cursive;
+
+    font-size: 15px;
+
+}
+
+.box2 {
+
+    border: 3px solid #d1d0cc;
+
+    width: 22%;
+
+    height: 300px;
+
+    padding-top: 9px;
+
+    margin-left: 20px;
+
+    float: left;
+
+    background-color: #bdbbb8;
+
+}
+
+.box2 h3{
+
+    text-align: center;
+
+    padding: 10px;
+
+}
+
+.box2 p{
+    font-family: 'Smooch', cursive;
+
+    font-size: 15px;
+
+}
+
+.box3 {
+
+    border: 3px solid #9e9c97;
+
+    width: 22%;
+
+    height: 300px;
+
+    padding-top: 9px;
+
+    margin-left: 20px;
+
+    float: left;
+
+    background-color: #b6b6b5;
+
+}
+
+.box3 h3{
+
+    text-align: center;
+
+    padding: 10px;
+
+}
+
+.box3 p{
+
+    font-family: 'Smooch', cursive;
+    font-size: 15px;
+
+}
+
+.box4 {
+
+    border: 3px solid #aaa9a7;
+
+    width: 22%;
+
+    height: 300px;
+
+    padding-top: 9px;
+
+    margin-left: 20px;
+
+    float: left;
+
+    background-color: #a1a1a1;
+
+}
+
+.box4 h3{
+
+    text-align: center;
+
+    padding: 10px;
+
+}
+
+.box4 p{
+    font-family: 'Smooch', cursive;
+
+    font-size: 15px
+}
+
+
+.footer{
+    margin-bottom: 2px;
+    width:100% ;
+    height: 50px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    text-align: center;
+    color: rgb(177, 184, 190);
+    background-color: rgb(0, 0, 0);
+    margin-top: 132px;
+    
+
+}
+.ramesh{
+    font-family: 'Fascinate', cursive;
+    margin-left: 2%;
+}
+
+
+
